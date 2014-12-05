@@ -12,7 +12,7 @@ body {
 	background-image: -ms-linear-gradient(bottom, #EB9719, #FFFFFF);
 	background-image: -webkit-linear-gradient(top, #EB9719, #FFFFFF);
 	background-image: linear-gradient(to bottom, #EB9719, #FFFFFF);*/
-	
+
 }
 
 .container-fluid {
@@ -53,7 +53,7 @@ p {
 }
 
 .nav-primary {
-	margin-top: 3em;	
+	margin-top: 3em;
 	text-transform: uppercase;
 }
 
@@ -142,4 +142,11 @@ p {
 
 .contacts-list {
 	font-size: 1.5em;
+}
+
+.airbnb {
+	background: #ff6666;
+	text-transform: uppercase;
+	letter-spacing: .1em;
+	font-weight: bold;
 }
